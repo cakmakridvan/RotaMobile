@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black_overlay">#66000000</color>
+
+    <!-- darker variant for the status bar and contextual app bars -->
+    <color name="colorPrimaryDark_rota">#b8250e</color>
+    <color name="colorPrimaryDark_rota_transparence">#AAcc2524</color>
+
+    <!-- your app branding color for the app bar -->
+    <color name="colorPrimary_rota">#ca391b</color>
+
+    <!-- theme UI controls like checkboxes and text fields -->
+    <color name="colorAccent_rota">#dd2f43</color>
+    <color name="colorAccent_rota_clicked">#f00021</color>
+
+
+    <!--<color name="colorPrimaryDark_rota">#cc2524</color>-->
+    <!--<color name="colorPrimaryDark_rota_transparence">#AAcc2524</color>-->
+    <!--<color name="colorPrimary_rota">#fa2b2b</color>-->
+    <!--<color name="colorAccent_rota">#ff1937</color>-->
+    <!--<color name="colorAccent_rota_clicked">#f00021</color>-->
+
+    <color name="ignition_open_and_speed">#339933</color>
+    <color name="ignition_open">#FF9900</color>
+    <color name="ignition_close">#FF3333</color>
+
+
+    <color name="green_color">#2ECC71</color>
+    <color name="black">#000000</color>
+
+    <color name="cafebar_action_button_ripple">#44000000</color>
+    <color name="cafebar_action_button_ripple_dark">#44FFFFFF</color>
+
+</resources>

@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Rota Araç Takip 2017</string>
+    <string name="title_activity_login1">Oturum Aç</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Kullanıcı Adı</string>
+    <string name="prompt_password">Parola </string>
+    <string name="action_sign_in">Oturum Aç</string>
+    <string name="action_sign_in_short">Oturum Aç</string>
+    <string name="error_incorrect_password">Yanlış parola</string>
+    <string name="error_field_required">Bu alan gereklidir</string>
+    <string name="title_activity_main">@string/app_name</string>
+
+    <string name="remember_me">Beni Hatırla</string>
+    <string name="vehicle_list">Araç Listesi</string>
+    <string name="not_track">Takibi Bırak</string>
+    <string name="accounts">Hesaplar</string>
+
+    <string name="Exit_App">Çıkış</string>
+    <string name="ignition_close_text">Kontak Kapalı</string>
+    <string name="menu_item_refresh">Yenile</string>
+    <string name="menu_item_search">Ara</string>
+    <string name="meny_item_filter">Filtrele</string>
+    <string name="ignition_moving_text">Hareketli</string>
+    <string name="ignition_on_text">Kontak Açık</string>
+    <string name="ignition_off_text">Kontak Kapalı</string>
+    <string name="dialog_are_you_exit">Çıkış yap?</string>
+    <string name="dialog_are_you_exit_info">Uygulama Kapatılacaktır!</string>
+    <string name="dialog_cancel">Vazgeç</string>
+    <string name="dialog_exit_app">Çıkış Yap.</string>
+    <string name="title_activity_vehicle_history">Araç Geçmiş Analizi</string>
+    <string name="title_activity_daily_report_list">DailyReportListActivity</string>
+    <string name="title_activity_mounthly_road_report">MounthlyRoadReportActivity</string>
+    <string name="title_activity_monthly_road_report">Aylık Yol Tablosu</string>
+    <string name="chart_max_speed">En Yüksek Hız</string>
+    <string name="chart_total_road">Toplam Yol</string>
+    <string name="monthly_report_today">Bugün</string>
+    <string name="alert_error_parse_data">Tarih Dönüştirme Hatası</string>
+    <string name="btn_name_track">İzle</string>
+    <string name="btn_name_history">Geçmiş</string>
+    <string name="btn_name_monthly_table">Aylık Tablo</string>
+</resources>
