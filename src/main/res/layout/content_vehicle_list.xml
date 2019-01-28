@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="tr.net.rota.aeyacin.rotamobil.ui.activities.VehicleList"
+    tools:ignore="GradleDependency"
+    tools:showIn="@layout/activity_vehicle_list">
+    <!--
+     android.support.constraint.ConstraintLayout
+ <SearchView
+        android:id="@+id/searchList"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="15"
+        android:hint="Ara"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        android:visibility="visible"/>
+
+                android:layout_below="@+id/searchList"
+
+    -->
+
+
+    <ExpandableListView
+        android:id="@+id/grouplist"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:choiceMode="singleChoice"
+        android:groupIndicator="@drawable/group_indicator"
+
+        />
+
+</RelativeLayout>
