@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\RotaMobile\\Documents\\RotaMobil\\AndroidStudioRotaMobile\\RotaMobilNewSystem\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldrtl-v17\\values-ldrtl-v17.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\RotaMobile\\.gradle\\caches\\transforms-1\\files-1.1\\finestwebview-1.2.7.aar\\8d8a533e13f01513b5da3492e66e9006\\res\\values-ldrtl-v17\\values-ldrtl-v17.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "45",
+                        "endOffsets": "96"
+                    }
+                }
+            ]
+        }
+    ]
+}
