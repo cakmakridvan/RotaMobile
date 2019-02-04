@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="2dp"
+        android:padding="4dp"
+        app:cardCornerRadius="4dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            >
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:weightSum="1"
+            >
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.33"
+                android:gravity="center"
+                android:orientation="horizontal"
+                android:textAlignment="center">
+
+                <TextView
+                    android:id="@+id/report_date"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:drawableLeft="@drawable/calender_icon_2"
+                    android:gravity="left|center_vertical"
+                    android:text=""
+                    android:textStyle="bold"
+                    android:textColor="#000000" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_marginLeft="20dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.67"
+                android:gravity="right"
+                android:orientation="horizontal">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:gravity="left|center_vertical"
+                    android:text="Toplam Yol: "
+                    android:textColor="#000000"
+                    tools:ignore="HardcodedText" />
+                <TextView
+                    android:id="@+id/report_distance"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:gravity="left|center_vertical"
+                    android:text=" 150 km"
+                    android:textColor="#484849" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="3sp"
+            android:layout_marginRight="3sp"
+            android:orientation="horizontal"
+            android:padding="2sp">
+
+            <TextView
+                android:id="@+id/report_city"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:text="....."
+                android:textColor="#000000"
+                android:textStyle="bold"
+                tools:ignore="HardcodedText,NestedWeights,RtlHardcoded"
+                />
+
+            <TextView
+                android:id="@+id/report_district"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:text="....."
+                android:textColor="#000000"
+                android:textStyle="bold"
+                tools:ignore="HardcodedText,NestedWeights,RtlHardcoded"
+                />
+
+            <TextView
+                android:id="@+id/report_max_speed"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="0.25"
+                android:drawableLeft="@mipmap/ic_high_speed"
+                android:gravity="left|center_vertical"
+                android:lines="1"
+                android:maxLines="1"
+                android:text=" 125 km/s"
+                android:textColor="#000000"
+                android:textStyle="bold"
+                tools:ignore="HardcodedText,NestedWeights,RtlHardcoded" />
+
+
+</LinearLayout>
+
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+
+
+</LinearLayout>

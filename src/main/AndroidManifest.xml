@@ -126,6 +126,12 @@
             android:name=".ui.activities.MonthlyRoadReportActivity"
             android:label="@string/title_activity_monthly_road_report"
             android:theme="@style/AppTheme.NoActionBar"/>
+
+        <activity
+            android:name=".ui.activities.ReportActivity"
+            android:label="@string/title_activity_monthly_report"
+            android:theme="@style/AppTheme.NoActionBar"/>
+
     </application>
 
 </manifest>

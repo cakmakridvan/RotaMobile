@@ -8,32 +8,32 @@ package info.hoang8f.android.segmented;
 
 public final class R {
     public static final class attr {
-        public static final int sc_border_width = 0x7f040260;
-        public static final int sc_checked_text_color = 0x7f040261;
-        public static final int sc_corner_radius = 0x7f040262;
-        public static final int sc_tint_color = 0x7f040263;
+        public static final int sc_border_width = 0x7f04020d;
+        public static final int sc_checked_text_color = 0x7f04020e;
+        public static final int sc_corner_radius = 0x7f04020f;
+        public static final int sc_tint_color = 0x7f040210;
     }
     public static final class color {
-        public static final int radio_button_selected_color = 0x7f060254;
-        public static final int radio_button_unselected_color = 0x7f060255;
+        public static final int radio_button_selected_color = 0x7f060237;
+        public static final int radio_button_unselected_color = 0x7f060238;
     }
     public static final class dimen {
-        public static final int radio_button_conner_radius = 0x7f07011f;
-        public static final int radio_button_stroke_border = 0x7f070120;
+        public static final int radio_button_conner_radius = 0x7f0700e6;
+        public static final int radio_button_stroke_border = 0x7f0700e7;
     }
     public static final class drawable {
-        public static final int button_text_color = 0x7f080064;
-        public static final int radio_checked = 0x7f0801e4;
-        public static final int radio_unchecked = 0x7f0801e5;
+        public static final int button_text_color = 0x7f080063;
+        public static final int radio_checked = 0x7f0801de;
+        public static final int radio_unchecked = 0x7f0801df;
     }
     public static final class string {
-        public static final int app_name = 0x7f10002e;
+        public static final int app_name = 0x7f100024;
     }
     public static final class style {
-        public static final int RadioButton = 0x7f1100e3;
+        public static final int RadioButton = 0x7f1100cb;
     }
     public static final class styleable {
-        public static final int[] SegmentedGroup = { 0x7f040260, 0x7f040261, 0x7f040262, 0x7f040263 };
+        public static final int[] SegmentedGroup = { 0x7f04020d, 0x7f04020e, 0x7f04020f, 0x7f040210 };
         public static final int SegmentedGroup_sc_border_width = 0;
         public static final int SegmentedGroup_sc_checked_text_color = 1;
         public static final int SegmentedGroup_sc_corner_radius = 2;

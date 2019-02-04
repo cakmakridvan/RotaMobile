@@ -57,7 +57,6 @@
     <application
         android:name="android.support.multidex.MultiDexApplication"
         android:allowBackup="true"
-        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
         android:debuggable="true"
         android:hardwareAccelerated="true"
         android:icon="@mipmap/ic_launcher"
@@ -142,6 +141,10 @@
         <activity
             android:name="tr.net.rota.aeyacin.rotamobil.ui.activities.MonthlyRoadReportActivity"
             android:label="@string/title_activity_monthly_road_report"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="tr.net.rota.aeyacin.rotamobil.ui.activities.ReportActivity"
+            android:label="@string/title_activity_monthly_report"
             android:theme="@style/AppTheme.NoActionBar" />
 
         <receiver android:name="com.google.android.gms.cast.framework.media.MediaIntentReceiver" />
@@ -302,6 +305,10 @@
             android:authorities="tr.net.rota.aeyacin.rotamobil.crashlyticsinitprovider"
             android:exported="false"
             android:initOrder="100" />
+
+        <meta-data
+            android:name="android.arch.lifecycle.VERSION"
+            android:value="27.0.0-SNAPSHOT" />
     </application>
 
 </manifest>

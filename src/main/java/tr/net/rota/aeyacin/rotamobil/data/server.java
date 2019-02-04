@@ -1,11 +1,20 @@
 package tr.net.rota.aeyacin.rotamobil.data;
 
+import org.apache.http.HttpEntity;
+import org.apache.http.HttpResponse;
+import org.apache.http.client.methods.HttpGet;
+import org.apache.http.client.methods.HttpPost;
+import org.apache.http.impl.client.DefaultHttpClient;
+import org.apache.http.params.BasicHttpParams;
 import org.ksoap2.SoapEnvelope;
 import org.ksoap2.serialization.SoapObject;
 import org.ksoap2.serialization.SoapPrimitive;
 import org.ksoap2.serialization.SoapSerializationEnvelope;
 import org.ksoap2.transport.HttpTransportSE;
 
+import java.io.BufferedReader;
+import java.io.InputStream;
+import java.io.InputStreamReader;
 import java.net.SocketTimeoutException;
 
 /**
@@ -413,5 +422,45 @@ public class server {
         } finally {
             return webReturn;
         }
+    }
+
+    public static String GetReport(String VehicleID){
+
+        DefaultHttpClient httpclient = new DefaultHttpClient(new BasicHttpParams());
+        HttpGet httppost = new HttpGet("http://178.18.200.116:90/api/RotaApi/BaseReportGet?VehicleID=" + VehicleID);
+// Depends on your web service
+        httppost.setHeader("Content-type", "application/json");
+
+        InputStream inputStream = null;
+        String result = null;
+        try {
+            HttpResponse response = httpclient.execute(httppost);
+            HttpEntity entity = response.getEntity();
+
+            inputStream = entity.getContent();
+            // json is UTF-8 by default
+            BufferedReader reader = new BufferedReader(new InputStreamReader(inputStream, "UTF-8"), 8);
+            StringBuilder sb = new StringBuilder();
+
+            String line = null;
+            while ((line = reader.readLine()) != null)
+            {
+                sb.append(line + "\n");
+            }
+            result = sb.toString();
+        } catch (Exception e) {
+            // Oops
+            return "false";
+        }
+        finally {
+            try{
+
+                if(inputStream != null)inputStream.close();
+
+            }catch(Exception squish){
+                return "false";
+            }
+        }
+              return result;
     }
 }

@@ -223,7 +223,7 @@
                         android:drawableStart="@drawable/ic_track_me"
                         android:gravity="start|left|center_vertical"
                         android:text="@string/btn_name_track"
-                        android:textSize="12sp"
+                        android:textSize="11sp"
                         tools:ignore="ButtonStyle,NestedWeights,RtlHardcoded" />
 
                     <Button
@@ -237,7 +237,7 @@
                         android:drawableStart="@drawable/ic_history_dual_point"
                         android:gravity="start|left|center_vertical"
                         android:text="@string/btn_name_history"
-                        android:textSize="12sp"
+                        android:textSize="11sp"
                         android:visibility="visible"
                         tools:ignore="ButtonStyle,RtlHardcoded" />
 
@@ -252,7 +252,22 @@
                         android:drawableStart="@drawable/ic_monthly_table"
                         android:gravity="start|left|center_vertical"
                         android:text="@string/btn_name_monthly_table"
-                        android:textSize="12sp"
+                        android:textSize="11sp"
+                        android:visibility="visible"
+                        tools:ignore="ButtonStyle,RtlHardcoded" />
+
+                    <Button
+                        android:id="@+id/buttonRapor"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_margin="2dp"
+                        android:layout_weight="0.30"
+                        android:background="@drawable/raised_selector"
+                        android:drawableLeft="@drawable/report"
+                        android:drawableStart="@drawable/report"
+                        android:gravity="start|left|center_vertical"
+                        android:text="@string/btn_name_report"
+                        android:textSize="11sp"
                         android:visibility="visible"
                         tools:ignore="ButtonStyle,RtlHardcoded" />
 

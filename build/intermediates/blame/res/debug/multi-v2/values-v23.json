@@ -4,7 +4,7 @@
             "outputFile": "C:\\Users\\RotaMobile\\Documents\\RotaMobil\\AndroidStudioRotaMobile\\RotaMobilNewSystem\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\RotaMobile\\.gradle\\caches\\transforms-1\\files-1.1\\cardview-v7-28.0.0.aar\\7afac4f591900f4cdd313b5da1597841\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\RotaMobile\\.gradle\\caches\\transforms-1\\files-1.1\\cardview-v7-27.0.1.aar\\2637bfe2e9d0fa8a96c4bb5b66e0fba6\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\RotaMobile\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\9220b21b240ab28a20387c05e29b7649\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\RotaMobile\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.1.aar\\b0a6fa6d940d4de8d7b8d4aa296de9a7\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,19,32,33,34,35,36",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",

@@ -4,7 +4,7 @@
             "outputFile": "C:\\Users\\RotaMobile\\Documents\\RotaMobil\\AndroidStudioRotaMobile\\RotaMobilNewSystem\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\RotaMobile\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\9220b21b240ab28a20387c05e29b7649\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\RotaMobile\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.1.aar\\b0a6fa6d940d4de8d7b8d4aa296de9a7\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\RotaMobile\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\e9b2800272edf6a662316a8be468aaa0\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\RotaMobile\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\5342b34b835ae66bff303efa81c665e1\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
