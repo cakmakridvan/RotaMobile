@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:2:1-131:12
-INJECTED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:2:1-131:12
-INJECTED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:2:1-131:12
-INJECTED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:2:1-131:12
+ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:2:1-137:12
+INJECTED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:2:1-137:12
+INJECTED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:2:1-137:12
+INJECTED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:2:1-137:12
 MERGED from [com.android.support:multidex:1.0.3] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\multidex-1.0.3.aar\5be40fc96856167479f949f39d954bb7\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\7c37493a7162683fedf0fe6128664998\AndroidManifest.xml:2:1-11:12
 MERGED from [com.thefinestartist:finestwebview:1.2.7] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\finestwebview-1.2.7.aar\8d8a533e13f01513b5da3492e66e9006\AndroidManifest.xml:2:1-12:12
@@ -163,22 +163,22 @@ MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] 
 MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\play-services-vision-license-12.0.1.aar\79b858d5fec4532f92a51a0ffd3cfcbb\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\play-services-wallet-license-12.0.1.aar\c86dd3b681afa0da1a0b5232897fa293\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\play-services-wearable-license-12.0.1.aar\04cff1e323577b2b5e3963121c16667e\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:2:1-131:12
-INJECTED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:2:1-131:12
-INJECTED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:2:1-131:12
+INJECTED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:2:1-137:12
+INJECTED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:2:1-137:12
+INJECTED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:2:1-137:12
 	package
 		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:4:5-44
 		INJECTED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml
-		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:2:1-131:12
+		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:2:1-137:12
 		INJECTED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml
 	xmlns:tools
 		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml
-		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:2:1-131:12
+		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:2:1-137:12
 		INJECTED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:2:11-69
@@ -351,7 +351,7 @@ MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\RotaMobi
 	android:required
 		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:40:9-32
 application
-ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:41:5-129:19
+ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:41:5-135:19
 MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\7c37493a7162683fedf0fe6128664998\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\7c37493a7162683fedf0fe6128664998\AndroidManifest.xml:9:5-20
 MERGED from [:sweetalert] C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\sweetalert\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-20
@@ -683,6 +683,14 @@ ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaM
 		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:128:13-56
 	android:name
 		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:126:13-68
+activity#tr.net.rota.aeyacin.rotamobil.ui.activities.ReportActivity
+ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:130:9-133:58
+	android:label
+		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:132:13-58
+	android:theme
+		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:133:13-56
+	android:name
+		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:131:13-57
 uses-sdk
 INJECTED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml

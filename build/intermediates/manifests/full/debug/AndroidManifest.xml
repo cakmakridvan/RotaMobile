@@ -143,6 +143,10 @@
             android:name="tr.net.rota.aeyacin.rotamobil.ui.activities.MonthlyRoadReportActivity"
             android:label="@string/title_activity_monthly_road_report"
             android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="tr.net.rota.aeyacin.rotamobil.ui.activities.ReportActivity"
+            android:label="@string/title_activity_report"
+            android:theme="@style/AppTheme.NoActionBar" />
 
         <receiver android:name="com.google.android.gms.cast.framework.media.MediaIntentReceiver" />
 

@@ -1652,6 +1652,10 @@
         "source": "C:\\Users\\RotaMobile\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-12.0.1.aar\\a2618b98797087fb68e26d22887d055e\\res\\drawable-xxhdpi-v4\\cast_abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
+        "merged": "C:\\Users\\RotaMobile\\Documents\\RotaMobil\\AndroidStudioRotaMobile\\RotaMobilNewSystem\\build\\intermediates\\res\\merged\\debug\\layout_activity_report.xml.flat",
+        "source": "C:\\Users\\RotaMobile\\Documents\\RotaMobil\\AndroidStudioRotaMobile\\RotaMobilNewSystem\\src\\main\\res\\layout\\activity_report.xml"
+    },
+    {
         "merged": "C:\\Users\\RotaMobile\\Documents\\RotaMobil\\AndroidStudioRotaMobile\\RotaMobilNewSystem\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_direction_kirmizi.png.flat",
         "source": "C:\\Users\\RotaMobile\\Documents\\RotaMobil\\AndroidStudioRotaMobile\\RotaMobilNewSystem\\src\\main\\res\\mipmap-mdpi\\ic_direction_kirmizi.png"
     },
@@ -2442,6 +2446,10 @@
     {
         "merged": "C:\\Users\\RotaMobile\\Documents\\RotaMobil\\AndroidStudioRotaMobile\\RotaMobilNewSystem\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_direction_yesil.png.flat",
         "source": "C:\\Users\\RotaMobile\\Documents\\RotaMobil\\AndroidStudioRotaMobile\\RotaMobilNewSystem\\src\\main\\res\\mipmap-xxxhdpi\\ic_direction_yesil.png"
+    },
+    {
+        "merged": "C:\\Users\\RotaMobile\\Documents\\RotaMobil\\AndroidStudioRotaMobile\\RotaMobilNewSystem\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_report.png.flat",
+        "source": "C:\\Users\\RotaMobile\\Documents\\RotaMobil\\AndroidStudioRotaMobile\\RotaMobilNewSystem\\src\\main\\res\\drawable-mdpi\\report.png"
     },
     {
         "merged": "C:\\Users\\RotaMobile\\Documents\\RotaMobil\\AndroidStudioRotaMobile\\RotaMobilNewSystem\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_truck_icon.png.flat",
@@ -4312,6 +4320,10 @@
         "source": "C:\\Users\\RotaMobile\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-12.0.1.aar\\a2618b98797087fb68e26d22887d055e\\res\\drawable-xxhdpi-v4\\quantum_ic_replay_30_white_36.png"
     },
     {
+        "merged": "C:\\Users\\RotaMobile\\Documents\\RotaMobil\\AndroidStudioRotaMobile\\RotaMobilNewSystem\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_report.png.flat",
+        "source": "C:\\Users\\RotaMobile\\Documents\\RotaMobil\\AndroidStudioRotaMobile\\RotaMobilNewSystem\\src\\main\\res\\drawable-hdpi\\report.png"
+    },
+    {
         "merged": "C:\\Users\\RotaMobile\\Documents\\RotaMobil\\AndroidStudioRotaMobile\\RotaMobilNewSystem\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_dialog_close_light.png.flat",
         "source": "C:\\Users\\RotaMobile\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\51c3a484259ba4028b46badaadc058d0\\res\\drawable-xhdpi-v4\\ic_dialog_close_light.png"
     },
@@ -4768,6 +4780,10 @@
         "source": "C:\\Users\\RotaMobile\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\9220b21b240ab28a20387c05e29b7649\\res\\drawable\\abc_ic_voice_search_api_material.xml"
     },
     {
+        "merged": "C:\\Users\\RotaMobile\\Documents\\RotaMobil\\AndroidStudioRotaMobile\\RotaMobilNewSystem\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_report.png.flat",
+        "source": "C:\\Users\\RotaMobile\\Documents\\RotaMobil\\AndroidStudioRotaMobile\\RotaMobilNewSystem\\src\\main\\res\\drawable-xhdpi\\report.png"
+    },
+    {
         "merged": "C:\\Users\\RotaMobile\\Documents\\RotaMobil\\AndroidStudioRotaMobile\\RotaMobilNewSystem\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\RotaMobile\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\9220b21b240ab28a20387c05e29b7649\\res\\drawable-xxxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
     },
@@ -4958,6 +4974,10 @@
     {
         "merged": "C:\\Users\\RotaMobile\\Documents\\RotaMobil\\AndroidStudioRotaMobile\\RotaMobilNewSystem\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_quantum_ic_pause_circle_filled_white_36.png.flat",
         "source": "C:\\Users\\RotaMobile\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-12.0.1.aar\\a2618b98797087fb68e26d22887d055e\\res\\drawable-mdpi-v4\\quantum_ic_pause_circle_filled_white_36.png"
+    },
+    {
+        "merged": "C:\\Users\\RotaMobile\\Documents\\RotaMobil\\AndroidStudioRotaMobile\\RotaMobilNewSystem\\build\\intermediates\\res\\merged\\debug\\layout_content_report.xml.flat",
+        "source": "C:\\Users\\RotaMobile\\Documents\\RotaMobil\\AndroidStudioRotaMobile\\RotaMobilNewSystem\\src\\main\\res\\layout\\content_report.xml"
     },
     {
         "merged": "C:\\Users\\RotaMobile\\Documents\\RotaMobil\\AndroidStudioRotaMobile\\RotaMobilNewSystem\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_bus_purple.png.flat",
@@ -5788,6 +5808,10 @@
         "source": "C:\\Users\\RotaMobile\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\51c3a484259ba4028b46badaadc058d0\\res\\drawable-xxhdpi-v4\\ic_mr_button_connected_00_dark.png"
     },
     {
+        "merged": "C:\\Users\\RotaMobile\\Documents\\RotaMobil\\AndroidStudioRotaMobile\\RotaMobilNewSystem\\build\\intermediates\\res\\merged\\debug\\layout_report_road_item.xml.flat",
+        "source": "C:\\Users\\RotaMobile\\Documents\\RotaMobil\\AndroidStudioRotaMobile\\RotaMobilNewSystem\\src\\main\\res\\layout\\report_road_item.xml"
+    },
+    {
         "merged": "C:\\Users\\RotaMobile\\Documents\\RotaMobil\\AndroidStudioRotaMobile\\RotaMobilNewSystem\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_design_ic_visibility_off.xml.flat",
         "source": "C:\\Users\\RotaMobile\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\6654777204835d4f9ba3896c35350fbe\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
     },
@@ -6062,6 +6086,10 @@
     {
         "merged": "C:\\Users\\RotaMobile\\Documents\\RotaMobil\\AndroidStudioRotaMobile\\RotaMobilNewSystem\\build\\intermediates\\res\\merged\\debug\\drawable_cast_ic_notification_play.xml.flat",
         "source": "C:\\Users\\RotaMobile\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-12.0.1.aar\\a2618b98797087fb68e26d22887d055e\\res\\drawable\\cast_ic_notification_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\RotaMobile\\Documents\\RotaMobil\\AndroidStudioRotaMobile\\RotaMobilNewSystem\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_report.png.flat",
+        "source": "C:\\Users\\RotaMobile\\Documents\\RotaMobil\\AndroidStudioRotaMobile\\RotaMobilNewSystem\\src\\main\\res\\drawable-xxhdpi\\report.png"
     },
     {
         "merged": "C:\\Users\\RotaMobile\\Documents\\RotaMobil\\AndroidStudioRotaMobile\\RotaMobilNewSystem\\build\\intermediates\\res\\merged\\debug\\drawable_ic_rota_logo.png.flat",
