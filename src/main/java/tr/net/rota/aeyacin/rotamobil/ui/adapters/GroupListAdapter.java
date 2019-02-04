@@ -57,11 +57,9 @@ import tr.net.rota.aeyacin.rotamobil.R;
 import tr.net.rota.aeyacin.rotamobil.data.server;
 import tr.net.rota.aeyacin.rotamobil.func.Logger;
 import tr.net.rota.aeyacin.rotamobil.model.sbt.MonthlyRoadReportObj;
-import tr.net.rota.aeyacin.rotamobil.model.sbt.ReportData;
 import tr.net.rota.aeyacin.rotamobil.model.sbt.Vehicle;
 import tr.net.rota.aeyacin.rotamobil.model.sbt.VehicleGroup;
 import tr.net.rota.aeyacin.rotamobil.ui.activities.MonthlyRoadReportActivity;
-import tr.net.rota.aeyacin.rotamobil.ui.activities.ReportActivity;
 import tr.net.rota.aeyacin.rotamobil.ui.activities.VehicleHistory;
 import tr.net.rota.aeyacin.rotamobil.ui.view.VerticalTextView3;
 import tr.net.rota.aeyacin.rotamobil.utils.SmsStruct;
@@ -145,7 +143,6 @@ public class GroupListAdapter extends BaseExpandableListAdapter {
             Button vehicle_track_button = convertView.findViewById(R.id.buttonTrack);
             Button vehicle_history_button = convertView.findViewById(R.id.buttonHistory);
             Button monthly_table_button = convertView.findViewById(R.id.buttonMonthlyTable);
-            Button report_button = convertView.findViewById(R.id.buttonRapor);
 
             ImageButton popupmenu = convertView.findViewById(R.id.imageButtonMenu);
 
@@ -207,12 +204,6 @@ public class GroupListAdapter extends BaseExpandableListAdapter {
 */
                     popupDialog(childitem.VehicleID);
 
-                }
-            });
-            report_button.setOnClickListener(new View.OnClickListener() {
-                @Override
-                public void onClick(View v) {
-                    new getReport(childitem.VehicleID).execute();
                 }
             });
 
@@ -310,93 +301,6 @@ public class GroupListAdapter extends BaseExpandableListAdapter {
         }
     }
 
-
-    class getReport extends AsyncTask<Object,Object,Boolean>{
-        ProgressDialog pDialog_report;
-
-        int VehicleID;
-        private List<ReportData> reports_result = null;
-
-        public getReport(int vehicleID){
-
-            this.VehicleID = vehicleID;
-        }
-
-        @Override
-        protected void onPreExecute() {
-            super.onPreExecute();
-
-            pDialog_report = new ProgressDialog(GroupListAdapter.this._activity);
-            pDialog_report.setMessage("Raporlar Getiriliyor...");
-            pDialog_report.setIndeterminate(true);
-            pDialog_report.setCancelable(false); // ProgressDialog u iptal edilemez hale getirdik.
-            pDialog_report.show();
-        }
-
-        @Override
-        protected Boolean doInBackground(Object... objects) {
-
-            try {
-
-                String get_result = server.GetReport(this.VehicleID + "");
-
-                if (!get_result.trim().equalsIgnoreCase("false")) {
-
-                    Type collectionType_report = new TypeToken<List<ReportData>>() {
-                    }.getType();
-
-                    reports_result = new Gson().fromJson(get_result, collectionType_report);
-
-                    return true;
-                } else {
-                    return false;
-                }
-            }catch (Exception e){
-
-                return false;
-            }
-
-
-        }
-
-        @Override
-        protected void onPostExecute(Boolean aBoolean) {
-            super.onPostExecute(aBoolean);
-
-            try {
-                if (aBoolean == true) {
-                    if (this.reports_result == null) {
-                        Toast.makeText(_activity.getApplicationContext(), "Veri Bulunamadı.", Toast.LENGTH_LONG).show();
-
-                    } else if (this.reports_result.size() < 1) {
-                        Toast.makeText(_activity.getApplicationContext(), "Veri Bulunamadı.", Toast.LENGTH_LONG).show();
-
-                    } else {
-                        try {
-                            Intent intent = new Intent(_activity.getApplicationContext(), ReportActivity.class);
-                            Bundle report_act = new Bundle();
-                            report_act.putInt("report_VehicleID", VehicleID); //Your id
-                            report_act.putString("report_datas", new Gson().toJson(this.reports_result));
-
-
-                            intent.putExtras(report_act);
-                            _activity.startActivity(intent);
-                        } catch (Exception Ex) {
-                            Toast.makeText(_activity.getApplicationContext(), "Veri İşleme Hatası", Toast.LENGTH_LONG).show();
-                        }
-                    }
-                    pDialog_report.dismiss();
-
-                } else {
-
-                }
-                pDialog_report.dismiss();  //ProgresDialog u kapatıyoruz.
-
-            } catch (Exception e) {
-                pDialog_report.dismiss();  //ProgresDialog u kapatıyoruz.
-            }
-        }
-    }
 
 //    private void showPopupMenu(View view, final int vehicleID) {
 //        // inflate menu

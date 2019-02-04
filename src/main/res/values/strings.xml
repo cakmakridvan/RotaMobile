@@ -32,7 +32,6 @@
     <string name="title_activity_daily_report_list">DailyReportListActivity</string>
     <string name="title_activity_mounthly_road_report">MounthlyRoadReportActivity</string>
     <string name="title_activity_monthly_road_report">Aylık Yol Tablosu</string>
-    <string name="title_activity_monthly_report">Rapor Tablosu</string>
     <string name="chart_max_speed">En Yüksek Hız</string>
     <string name="chart_total_road">Toplam Yol</string>
     <string name="monthly_report_today">Bugün</string>
@@ -40,5 +39,4 @@
     <string name="btn_name_track">İzle</string>
     <string name="btn_name_history">Geçmiş</string>
     <string name="btn_name_monthly_table">Aylık Tablo</string>
-    <string name="btn_name_report">Rapor</string>
 </resources>
