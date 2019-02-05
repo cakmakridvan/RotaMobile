@@ -39,6 +39,6 @@
     <string name="btn_name_track">İzle</string>
     <string name="btn_name_history">Geçmiş</string>
     <string name="btn_name_monthly_table">Aylık Tablo</string>
-    <string name="btn_name_report">Rapor</string>
-    <string name="title_activity_report">Aylık Rapor</string>
+    <string name="btn_name_report">Genel Rapor</string>
+    <string name="title_activity_report">Genel Rapor</string>
 </resources>

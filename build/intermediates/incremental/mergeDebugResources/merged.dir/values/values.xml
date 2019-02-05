@@ -1927,7 +1927,7 @@
     <string name="bottom_sheet_behavior" translatable="false">android.support.design.widget.BottomSheetBehavior</string>
     <string name="btn_name_history">Geçmiş</string>
     <string name="btn_name_monthly_table">Aylık Tablo</string>
-    <string name="btn_name_report">Rapor</string>
+    <string name="btn_name_report">Genel Rapor</string>
     <string name="btn_name_track">İzle</string>
     <string name="cast_ad_label">Ad</string>
     <string name="cast_casting_to_device">Casting to %1$s</string>
@@ -1974,7 +1974,7 @@
     <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
     <string name="chart_max_speed">En Yüksek Hız</string>
     <string name="chart_total_road">Toplam Yol</string>
-    <string name="com.crashlytics.android.build_id" ns2:ignore="UnusedResources,TypographyDashes" translatable="false">85f94a7b-4741-48f3-a64e-46ed8f6afd9d</string>
+    <string name="com.crashlytics.android.build_id" ns2:ignore="UnusedResources,TypographyDashes" translatable="false">eecde12a-73a1-4c55-8a40-13ad28fa1678</string>
     <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Enable</string>
     <string msgid="227660514972886228" name="common_google_play_services_enable_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t work unless you enable Google Play services.</string>
     <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Enable Google Play services</string>
@@ -2095,7 +2095,7 @@
     <string name="title_activity_main">@string/app_name</string>
     <string name="title_activity_monthly_road_report">Aylık Yol Tablosu</string>
     <string name="title_activity_mounthly_road_report">MounthlyRoadReportActivity</string>
-    <string name="title_activity_report">Aylık Rapor</string>
+    <string name="title_activity_report">Genel Rapor</string>
     <string name="title_activity_vehicle_history">Araç Geçmiş Analizi</string>
     <string name="vehicle_list">Araç Listesi</string>
     <string name="wallet_buy_button_place_holder">Buy with Google</string>

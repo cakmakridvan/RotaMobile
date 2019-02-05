@@ -78,12 +78,12 @@ public final class R {
         public static final int light = 0x7f0900e6;
         public static final int none = 0x7f090137;
         public static final int normal = 0x7f090138;
-        public static final int satellite = 0x7f090165;
-        public static final int standard = 0x7f090194;
-        public static final int terrain = 0x7f0901a7;
-        public static final int webview = 0x7f0901dc;
-        public static final int wide = 0x7f0901dd;
-        public static final int window = 0x7f0901de;
+        public static final int satellite = 0x7f090167;
+        public static final int standard = 0x7f090196;
+        public static final int terrain = 0x7f0901a9;
+        public static final int webview = 0x7f0901de;
+        public static final int wide = 0x7f0901df;
+        public static final int window = 0x7f0901e0;
     }
     public static final class integer {
         public static final int google_play_services_version = 0x7f0a0009;

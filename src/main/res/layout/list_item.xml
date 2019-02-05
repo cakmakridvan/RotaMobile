@@ -209,7 +209,7 @@
                     android:layout_margin="1sp"
                     android:layout_weight="25"
                     android:orientation="horizontal"
-                    android:weightSum="1.22">
+                    android:weightSum="1.68">
 
                     <Button
                         android:id="@+id/buttonTrack"
@@ -231,7 +231,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_margin="2dp"
-                        android:layout_weight="0.40"
+                        android:layout_weight="0.42"
                         android:background="@drawable/raised_selector"
                         android:drawableLeft="@drawable/ic_history_dual_point"
                         android:drawableStart="@drawable/ic_history_dual_point"
@@ -246,7 +246,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:layout_margin="2dp"
-                    android:layout_weight="0.40"
+                    android:layout_weight="0.42"
                     android:background="@drawable/raised_selector"
                     android:drawableLeft="@drawable/ic_monthly_table"
                     android:drawableStart="@drawable/ic_monthly_table"
@@ -257,8 +257,9 @@
                     tools:ignore="ButtonStyle,RtlHardcoded" />
 
                     <Button
+                        android:layout_weight="0.42"
                         android:id="@+id/buttonReport"
-                        android:layout_width="wrap_content"
+                        android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_margin="2dp"
                         android:background="@drawable/raised_selector"

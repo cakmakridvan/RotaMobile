@@ -49,10 +49,12 @@ public class ReportListAdapter extends RecyclerView.Adapter<ReportListAdapter.Vi
 
         final ReportData item = rArrayList.get(i);
 
-        viewHolder.totalKm.setText(String.valueOf(item.DayTotalKm + " Km/s"));
-        viewHolder.city.setText(String.valueOf(item.CityInside + ","));
+        viewHolder.totalKm.setText(String.valueOf(item.DayTotalKm + " Km"));
+        viewHolder.city.setText(String.valueOf(item.CityInside + " "));
         viewHolder.district.setText(String.valueOf(item.DistrictInside));
         viewHolder.highSpeed.setText(String.valueOf(item.HighestSpeed + " Km/s"));
+        viewHolder.atworkTime.setText(String.valueOf(item.AtWorkTimeKm + " Km"));
+        viewHolder.outWorkTime.setText(String.valueOf(item.OutOfWorkKm + " Km"));
         String title="";
 
         try {
@@ -78,7 +80,7 @@ public class ReportListAdapter extends RecyclerView.Adapter<ReportListAdapter.Vi
 
     public class ViewHolder extends RecyclerView.ViewHolder {
 
-        TextView rDate,totalKm,highSpeed,city,district;
+        TextView rDate,totalKm,highSpeed,city,district,atworkTime,outWorkTime;
 
         public ViewHolder(View view) {
             super(view);
@@ -87,9 +89,8 @@ public class ReportListAdapter extends RecyclerView.Adapter<ReportListAdapter.Vi
             highSpeed = view.findViewById(R.id.report_max_speed);
             city = view.findViewById(R.id.report_city);
             district = view.findViewById(R.id.report_district);
-
-
-
+            atworkTime = view.findViewById(R.id.report_atWorkTime);
+            outWorkTime = view.findViewById(R.id.report_outOfWorkTime);
 
         }
     }
