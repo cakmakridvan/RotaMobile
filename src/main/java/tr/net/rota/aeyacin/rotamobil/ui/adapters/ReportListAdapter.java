@@ -32,7 +32,28 @@ public class ReportListAdapter extends RecyclerView.Adapter<ReportListAdapter.Vi
         this.rArrayList.addAll(arrayList);
 
 
+        Collections.sort(this.rArrayList, new Comparator<ReportData>() {
+            @Override
+            public int compare(ReportData o1, ReportData o2) {
 
+                try {
+                    Date date1 = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ss").parse(o1.DateTimeToday);
+                    Date date2 = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ss").parse(o2.DateTimeToday);
+
+                    if (date1.getTime() > date2.getTime()) {
+                        return 1;
+                    }
+                    return -1;
+
+                } catch (ParseException e) {
+                    e.printStackTrace();
+                    return 0;
+                }
+            }
+        });
+
+
+         Collections.reverse(rArrayList);
         this.rActivity = activity;
         this.vehicleId = vehicleId;
     }

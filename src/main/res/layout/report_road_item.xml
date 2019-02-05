@@ -49,12 +49,19 @@
 
             </LinearLayout>
 
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="right"
+        android:layout_weight="0.67"
+        >
+
             <LinearLayout
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:orientation="vertical"
-                android:gravity="right"
-                android:layout_weight="0.67"
+                android:gravity="left"
+
                 >
 
 
@@ -134,6 +141,9 @@
 
 
             </LinearLayout>
+
+    </LinearLayout>/
+
 
         </LinearLayout>
 
