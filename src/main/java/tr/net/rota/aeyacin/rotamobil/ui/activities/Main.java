@@ -55,6 +55,8 @@ import com.google.gson.JsonElement;
 import com.google.gson.reflect.TypeToken;
 
 import java.lang.reflect.Type;
+import java.util.Dictionary;
+import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
@@ -88,6 +90,9 @@ public class Main extends AppCompatActivity implements OnMapReadyCallback, Googl
     public View rippleView;
     public TextView testview;
     private boolean launchedActivity;
+    private int customerID = 0;
+    boolean signal_con = false;
+    public static String mConnectionID;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -96,6 +101,15 @@ public class Main extends AppCompatActivity implements OnMapReadyCallback, Googl
         toolbar = findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
+        customerID = Globals.user.CompanyID;
+/*
+        //get CustomerAccountID from Bundle
+        Bundle c = getIntent().getExtras();
+        if(c != null){
+
+            customerID = c.getInt("CustomerID");
+        }
+*/
         SegmentedGroup seg_harita = findViewById(R.id.seg1);
         RadioButton radio_harita = findViewById(R.id.button23);
         radio_harita.setChecked(true);
@@ -244,7 +258,7 @@ public class Main extends AppCompatActivity implements OnMapReadyCallback, Googl
     @Override
     protected void onStart() {
         super.onStart();
-        toolbar.setTitle("ROTA 2017 - " + Globals.user.CompanyName);
+        toolbar.setTitle("ROTA - " + Globals.user.CompanyName);
         if (Globals.context == null) {
             Globals.context = this;
         }
@@ -303,6 +317,7 @@ public class Main extends AppCompatActivity implements OnMapReadyCallback, Googl
             //   startRippleTransitionUnreveal();
             launchedActivity = false;
         }
+        customerID = Globals.user.CompanyID;
         restartsignalr();
 
 
@@ -503,9 +518,12 @@ public class Main extends AppCompatActivity implements OnMapReadyCallback, Googl
                 }
             };
 
+            Map<String,String> a = new HashMap<String, String>();
+            a.put("key1","key1");
+
             // Connect to the server
             //   HubConnection conn = new HubConnection( "http://cep.rota.net.tr/signalr/", "", true, logger );
-            conn = new HubConnection("http://ats2.rota.net.tr/signalr/", "", true, logger);
+            conn = new HubConnection("http://ats2.rota.net.tr/signalr/", "key="+ customerID , true, logger);
 
             // Create the hub proxy
             //  HubProxy proxy = conn.createHubProxy( "ChatHub" );
@@ -536,8 +554,29 @@ public class Main extends AppCompatActivity implements OnMapReadyCallback, Googl
                     Log.i("STATE", "CONNECTED");
                     Globals.isConnectionSignalr = true;
                     //  System.out.println( "CONNECTED" );
+                    signal_con = true;
+
+                    mConnectionID = conn.getConnectionId();
                 }
             });
+
+      //Send CustomerID to Signal server
+/*
+try {
+    proxy.invoke("connectID", customerID + "", "").done(new Action<Void>() {
+
+        @Override
+        public void run(Void obj) throws Exception {
+
+            Log.i("STATE", "SENT!");
+
+
+        }
+    });
+}catch (Exception e){
+    e.printStackTrace();
+}
+*/
 
             // Subscribe to the closed event
             conn.closed(new Runnable() {
@@ -573,13 +612,16 @@ public class Main extends AppCompatActivity implements OnMapReadyCallback, Googl
                 }
             });
 
+
+
             // Read lines and send them as messages.
             //System.in
             Scanner inputReader = new Scanner("my device");
 //updateLocation  //send
             String line = inputReader.nextLine();
+            /*
             while (!"exit".equals(line)) {
-                proxy.invoke("updateLocation", "mydeviceid", line).done(new Action<Void>() {
+                proxy.invoke("updateLocation1", "location=" + "fe", "connectID=" + "line").done(new Action<Void>() {
 
                     @Override
                     public void run(Void obj) throws Exception {
@@ -592,7 +634,7 @@ public class Main extends AppCompatActivity implements OnMapReadyCallback, Googl
 
                 line = inputReader.next();
             }
-
+*/
             inputReader.close();
 
             //  conn.stop();
@@ -759,37 +801,48 @@ public class Main extends AppCompatActivity implements OnMapReadyCallback, Googl
                     return;
             }
 
-            if (SignalR.M.equalsIgnoreCase("updateLocation")) {
+            if (SignalR.M.equalsIgnoreCase("updateLocation1")) {
 
                 //         if (Globals.user.CompanyID == SignalR.A.get(0).R5)
                 {
-                    for (int i = 0; i < Globals.groups.size(); i++) {
-                        for (int bb = 0; bb < Globals.groups.get(i).Vehicle.size(); bb++) {
+                    //for (int i = 0; i < Globals.groups.size(); i++) {
+                        //for (int bb = 0; bb < Globals.groups.get(i).Vehicle.size(); bb++) {
 
-                            if (SignalR.A.get(0).R2.equalsIgnoreCase(Globals.groups.get(i).Vehicle.get(bb).IMEI)) {
+                            //if (SignalR.A.get(0).R2.equalsIgnoreCase(Globals.groups.get(i).Vehicle.get(bb).IMEI)) {
 
                                 LocationR templocation = new LocationR();
-                                templocation.VehicleID = Globals.groups.get(i).Vehicle.get(bb).VehicleID;// Integer.parseInt( SignalR.A.R13 );
+                                //templocation.VehicleID = Globals.groups.get(i).Vehicle.get(bb).VehicleID;// Integer.parseInt( SignalR.A.R13 );
+                                templocation.VehicleID = SignalR.A.get(0).VehicleID;
                                 templocation.DeviceDateTime = (SignalR.A.get(0).R11);
                                 templocation.SatelliteCount = (SignalR.A.get(0).R17);
                                 templocation.Latitude = (SignalR.A.get(0).R14);
                                 templocation.Longitude = (SignalR.A.get(0).R15);
                                 templocation.Angle = (SignalR.A.get(0).R16);
                                 templocation.Speed = (SignalR.A.get(0).R13);
-                                Globals.DevicesVehicleMap.get(Globals.groups.get(i).Vehicle.get(bb).VehicleID).VehicleImage = SignalR.A.get(0).R6;
 
-                                String inf = "Plate: " + Globals.DevicesVehicleMap.get(Globals.groups.get(i).Vehicle.get(bb).VehicleID).device.Plate + "  ID: " + Globals.DevicesVehicleMap.get(Globals.groups.get(i).Vehicle.get(bb).VehicleID).device.VehicleID
-                                        + "   IMEI: " + Globals.DevicesVehicleMap.get(Globals.groups.get(i).Vehicle.get(bb).VehicleID).device.IMEI;
+                                Globals.DevicesVehicleMap.get( SignalR.A.get(0).VehicleID).VehicleImage = SignalR.A.get(0).R6;
+                              //  Globals.DevicesVehicleMap.get(Globals.groups.get(i).Vehicle.get(bb).VehicleID).VehicleImage = SignalR.A.get(0).R6;
+                                //Globals.DevicesVehicleMap.get(SignalR.A.get(0).VehicleID).VehicleImage = SignalR.A.get(0).R6;
+
+
+
+                                String inf = "Plate: " + Globals.DevicesVehicleMap.get(SignalR.A.get(0).VehicleID).device.Plate + "  ID: " + Globals.DevicesVehicleMap.get(SignalR.A.get(0).VehicleID).device.VehicleID
+                                        + "   IMEI: " + Globals.DevicesVehicleMap.get(SignalR.A.get(0).VehicleID).device.IMEI;
+                               // String inf = "Plate: " + Globals.DevicesVehicleMap.get(Globals.groups.get(i).Vehicle.get(bb).VehicleID).device.Plate + "  ID: " + Globals.DevicesVehicleMap.get(Globals.groups.get(i).Vehicle.get(bb).VehicleID).device.VehicleID
+                                 //       + "   IMEI: " + Globals.DevicesVehicleMap.get(Globals.groups.get(i).Vehicle.get(bb).VehicleID).device.IMEI;
                                 Log.i("Taked Values:", inf + " => " + json.toString());
-                                Globals.DevicesVehicleMap.get(Globals.groups.get(i).Vehicle.get(bb).VehicleID).AddLocation(templocation);
-                                updateMarker(templocation, Globals.groups.get(i).Vehicle.get(bb).VehicleID);
+                                Globals.DevicesVehicleMap.get(SignalR.A.get(0).VehicleID).AddLocation(templocation);
+                                updateMarker(templocation, SignalR.A.get(0).VehicleID);
+
+                                //Globals.DevicesVehicleMap.get(Globals.groups.get(i).Vehicle.get(bb).VehicleID).AddLocation(templocation);
+                                //updateMarker(templocation, Globals.groups.get(i).Vehicle.get(bb).VehicleID);
 
 
-                                break;
-                            }
+                                //break;
+                            //}
 
-                        }
-                    }
+                        //}
+                    //}
                 }
             } else if (SignalR.M.equalsIgnoreCase("updateStatus")) {
 
@@ -814,6 +867,10 @@ public class Main extends AppCompatActivity implements OnMapReadyCallback, Googl
                         }
                     }
                 }
+            }
+            else{
+
+                String a = "Deneme";
             }
 
         } catch (Exception e) {

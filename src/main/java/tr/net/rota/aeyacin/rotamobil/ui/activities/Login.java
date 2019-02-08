@@ -335,7 +335,13 @@ public class Login extends AppCompatActivity {
             if (success) {
                 MainCustomerAccountID = Globals.user.CompanyID;
 
-                startActivity(new Intent(getApplicationContext(), Main.class));
+                //startActivity(new Intent(getApplicationContext(), Main.class));
+                Intent go_main = new Intent(getApplicationContext(),Main.class);
+                //send Customer AccountID
+                Bundle c = new Bundle();
+                c.putInt("CustomerID",MainCustomerAccountID);
+                go_main.putExtras(c);
+                startActivity(go_main);
                 finish();
 
                 //  showProgress( false );

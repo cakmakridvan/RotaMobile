@@ -24,5 +24,6 @@ public class AClass {
     public int R17;//= lt.Angle;
     public String R18;//= DateTime.Now;
     public int R20 = -1;//= vehicle.CompanyID;
+    public int VehicleID;
 
 }

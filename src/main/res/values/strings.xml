@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Rota Araç Takip 2017</string>
+    <string name="app_name">Rota Araç Takip</string>
     <string name="title_activity_login1">Oturum Aç</string>
 
     <!-- Strings related to login -->
