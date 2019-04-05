@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:2:1-135:12
-INJECTED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:2:1-135:12
-INJECTED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:2:1-135:12
-INJECTED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:2:1-135:12
+ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:2:1-139:12
+INJECTED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:2:1-139:12
+INJECTED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:2:1-139:12
+INJECTED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:2:1-139:12
 MERGED from [com.android.support:multidex:1.0.3] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\multidex-1.0.3.aar\5be40fc96856167479f949f39d954bb7\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\7c37493a7162683fedf0fe6128664998\AndroidManifest.xml:2:1-11:12
 MERGED from [com.thefinestartist:finestwebview:1.2.7] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\finestwebview-1.2.7.aar\8d8a533e13f01513b5da3492e66e9006\AndroidManifest.xml:2:1-12:12
@@ -14,9 +14,9 @@ MERGED from [com.google.android.gms:play-services:12.0.1] C:\Users\RotaMobile\.g
 MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-12.0.1.aar\a2618b98797087fb68e26d22887d055e\AndroidManifest.xml:2:1-14:12
 MERGED from [com.google.android.gms:play-services-cast:12.0.1] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\play-services-cast-12.0.1.aar\1b91f2b49462da7891525686a0720cf0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:mediarouter-v7:26.1.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-26.1.0.aar\51c3a484259ba4028b46badaadc058d0\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:design:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\6654777204835d4f9ba3896c35350fbe\AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\9220b21b240ab28a20387c05e29b7649\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\7afac4f591900f4cdd313b5da1597841\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:27.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\design-27.0.0.aar\c3b6d5359c42fa8acc067ad64e828555\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.0.aar\d67623e09da56b30dec2524c0e8855b0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.0.aar\07e803c886e25bdafecf9c9482fbce69\AndroidManifest.xml:17:1-22:12
 MERGED from [com.github.rampo.updatechecker:library:2.1.8] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\library-2.1.8.aar\1fd586843b69272629a5dd9ce3c41893\AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.android.gms:play-services-awareness:12.0.1] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\play-services-awareness-12.0.1.aar\4836f711c19a1494142445107f87fd5e\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-places:12.0.1] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\play-services-places-12.0.1.aar\8dac7b5d20e0610f2fcc03b5dbdae68f\AndroidManifest.xml:17:1-24:12
@@ -68,8 +68,8 @@ MERGED from [com.google.firebase:firebase-common:12.0.1] C:\Users\RotaMobile\.gr
 MERGED from [com.google.android.gms:play-services-gass:12.0.1] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\play-services-gass-12.0.1.aar\c50505f55b9d61f53233d3b069fdf685\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\play-services-tasks-12.0.1.aar\b9d422eaa1ed8107d2b8e2be96404c49\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\8d7753c59a9803473f2339300940fd8a\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-v4:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\f394c41c00e320f0860bab7965148c3b\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\32dd8a221f6b60b3f4eec4f6bb8fc75f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.0.aar\e796be26ac7338278d0b5e14aa69f237\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.0.aar\3e06b7b5360472127f630224210989be\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\56c430a24c7d2dcb8f4fefdcf78bcf30\AndroidManifest.xml:2:1-13:12
 MERGED from [com.pddstudio:encrypted-preferences:1.3.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\encrypted-preferences-1.3.0.aar\32629cac7c38f97a717a59dc34b89d18\AndroidManifest.xml:2:1-12:12
 MERGED from [com.scottyab:aescrypt:0.0.1] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\aescrypt-0.0.1.aar\9f434d8d26361041dd22df0aa6ad9123\AndroidManifest.xml:2:1-12:12
@@ -77,38 +77,19 @@ MERGED from [com.github.clans:fab:1.6.4] C:\Users\RotaMobile\.gradle\caches\tran
 MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\1334ce86647a17bff8bac2daf7c76343\AndroidManifest.xml:2:1-7:12
 MERGED from [com.github.lzyzsd:circleprogress:1.2.1] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\circleprogress-1.2.1.aar\7734152f3d7ab13d90f6eddbba73ea8a\AndroidManifest.xml:2:1-12:12
 MERGED from [rongi.rotate-layout:rotate-layout:3.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\rotate-layout-3.0.0.aar\3020863500f751a79395a0b2f896f4b8\AndroidManifest.xml:2:1-12:12
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\370be6dc97f40486e1e1fdf3628c7c4b\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\2ae66ef82d7fd5605fc2865dfc55fe8f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.0.aar\243366a485cbaa3f44261cba40c04768\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.0.aar\423d3720446fd48677ec3769df8ae514\AndroidManifest.xml:17:1-22:12
 MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.6] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\android-gif-drawable-1.2.6.aar\adbd85ff5c122a75f3ad4c36aa6e4a0b\AndroidManifest.xml:2:1-11:12
 MERGED from [com.github.leonardoxh:fake-search-view:0.3.1] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\fake-search-view-0.3.1.aar\d1267e44353d7916f185c13e189e484c\AndroidManifest.xml:2:1-11:12
 MERGED from [info.hoang8f:android-segmented:1.0.6] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\android-segmented-1.0.6.aar\541bcc09e5df13f3dc9566aec89f587d\AndroidManifest.xml:2:1-11:12
 MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.4] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.4.aar\6cb3f714720050ed80941395f69cea33\AndroidManifest.xml:2:1-19:12
-MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\d0cdfb7d54d5fd25d8dc1737a665839c\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\76dea79a264d929dca23e4e484e2b574\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:viewpager:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\ebedac2e24d714b7afb509fad33d4c9c\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\f1ddc1b700cbdfeee6ddff8fcce0092c\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\cc18d6753401d6e65c842f536c1c0689\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\79a44dc849cd8b8765f98ff79815a75d\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:customview:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\e36b56407138f596d7143c271976a21c\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\9d04067f6b312b4bf7a43789ed4be988\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\62d6fb9756c9df0300507d7376d4c1f9\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\3454b3e09ad18745de21910a1762c68d\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\6011360cc7191fc38767be8fc8fb033d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.0.aar\51250a242a63d36ef19d5f1419d9e3c7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.0.aar\6aa18742f7b449a4d798885d27a037f6\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:palette-v7:26.1.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\palette-v7-26.1.0.aar\28759d80e7f186d39f4dbd5aa4be0579\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\e178bb7daae51504c729f83f3691e250\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\f80179f6f14a30ea37140a1fa00b4d53\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:loader:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\e508cb6f7a6fddf8a96cd2e1e8791193\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:transition:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\189a53ff68e16539ccae91c5220bbb63\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\e9b2800272edf6a662316a8be468aaa0\AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\74a96665fd66f1bd109ef3979831b96c\AndroidManifest.xml:17:1-25:12
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c4ea6c3ee7ca0447241ac823df3d6418\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\bd00a96d081f879c2e42be3989dd061b\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\fc4dea07adb7cf4d302ab51100673162\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e430c865e590434dc8b4602f07837362\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\0275fec4d9320dfcc1f819248021697b\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:documentfile:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\fd711aef7c05b5b7d14edfbad492493b\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\3bcec5b17dfe53a4969fedc4bf620972\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:print:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\64719decf38a0f3e3373d6e727157fdc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.0.aar\fbdf4d195646696b0d36960a3d4a4bb6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\transition-27.0.0.aar\e18a6411727a64657b07ec70b723f104\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.0.aar\235ad98c344424c8bf9480538ad1195e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.0.aar\819940b3c99e73de45f9236debd310f3\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-12.0.1.aar\a6145b9be79865daf25573a34038989d\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-license-12.0.1.aar\bff3f60b3642d58b0db4e1640aeab4e1\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\firebase-messaging-license-12.0.1.aar\935d4dd183b4a251952cc22fd7ae5d9c\AndroidManifest.xml:17:1-24:12
@@ -163,22 +144,23 @@ MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] 
 MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\play-services-vision-license-12.0.1.aar\79b858d5fec4532f92a51a0ffd3cfcbb\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\play-services-wallet-license-12.0.1.aar\c86dd3b681afa0da1a0b5232897fa293\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\play-services-wearable-license-12.0.1.aar\04cff1e323577b2b5e3963121c16667e\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:2:1-135:12
-INJECTED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:2:1-135:12
-INJECTED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:2:1-135:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\8b4a5cbc1d6a558c2ab764ba7007c172\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:2:1-139:12
+INJECTED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:2:1-139:12
+INJECTED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:2:1-139:12
 	package
 		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:4:5-44
 		INJECTED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml
-		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:2:1-135:12
+		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:2:1-139:12
 		INJECTED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml
 	xmlns:tools
 		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml
-		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:2:1-135:12
+		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:2:1-139:12
 		INJECTED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:2:11-69
@@ -339,7 +321,7 @@ MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\RotaMobi
 	android:required
 		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:38:9-32
 application
-ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:39:5-133:19
+ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:39:5-137:19
 MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\7c37493a7162683fedf0fe6128664998\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\7c37493a7162683fedf0fe6128664998\AndroidManifest.xml:9:5-20
 MERGED from [:sweetalert] C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\sweetalert\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-20
@@ -354,8 +336,6 @@ MERGED from [com.google.android.gms:play-services-cast:12.0.1] C:\Users\RotaMobi
 MERGED from [com.google.android.gms:play-services-cast:12.0.1] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\play-services-cast-12.0.1.aar\1b91f2b49462da7891525686a0720cf0\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:mediarouter-v7:26.1.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-26.1.0.aar\51c3a484259ba4028b46badaadc058d0\AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:mediarouter-v7:26.1.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-26.1.0.aar\51c3a484259ba4028b46badaadc058d0\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:design:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\6654777204835d4f9ba3896c35350fbe\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:design:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\6654777204835d4f9ba3896c35350fbe\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-awareness:12.0.1] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\play-services-awareness-12.0.1.aar\4836f711c19a1494142445107f87fd5e\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-awareness:12.0.1] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\play-services-awareness-12.0.1.aar\4836f711c19a1494142445107f87fd5e\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-places:12.0.1] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\play-services-places-12.0.1.aar\8dac7b5d20e0610f2fcc03b5dbdae68f\AndroidManifest.xml:22:5-20
@@ -448,10 +428,6 @@ MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.4] C:\Users\RotaMobile\
 MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.4] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.4.aar\6cb3f714720050ed80941395f69cea33\AndroidManifest.xml:11:5-17:19
 MERGED from [com.android.support:palette-v7:26.1.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\palette-v7-26.1.0.aar\28759d80e7f186d39f4dbd5aa4be0579\AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:palette-v7:26.1.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\palette-v7-26.1.0.aar\28759d80e7f186d39f4dbd5aa4be0579\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\e9b2800272edf6a662316a8be468aaa0\AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\e9b2800272edf6a662316a8be468aaa0\AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\74a96665fd66f1bd109ef3979831b96c\AndroidManifest.xml:22:5-23:19
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\74a96665fd66f1bd109ef3979831b96c\AndroidManifest.xml:22:5-23:19
 MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-12.0.1.aar\a6145b9be79865daf25573a34038989d\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-12.0.1.aar\a6145b9be79865daf25573a34038989d\AndroidManifest.xml:22:5-20
 MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-license-12.0.1.aar\bff3f60b3642d58b0db4e1640aeab4e1\AndroidManifest.xml:22:5-20
@@ -560,8 +536,8 @@ MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] C:\User
 MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\play-services-wallet-license-12.0.1.aar\c86dd3b681afa0da1a0b5232897fa293\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\play-services-wearable-license-12.0.1.aar\04cff1e323577b2b5e3963121c16667e\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\play-services-wearable-license-12.0.1.aar\04cff1e323577b2b5e3963121c16667e\AndroidManifest.xml:22:5-20
-	android:appComponentFactory
-		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\e9b2800272edf6a662316a8be468aaa0\AndroidManifest.xml:22:18-91
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\8b4a5cbc1d6a558c2ab764ba7007c172\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\8b4a5cbc1d6a558c2ab764ba7007c172\AndroidManifest.xml:24:5-28:19
 	android:supportsRtl
 		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:45:9-35
 	android:label
@@ -582,103 +558,103 @@ MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] C:\Us
 	android:name
 		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:40:9-68
 activity#tr.net.rota.aeyacin.rotamobil.ui.activities.SplashActivity
-ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:50:9-58:20
+ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:52:9-60:20
 	android:theme
-		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:52:13-53
+		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:54:13-53
 	android:name
-		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:51:13-57
+		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:53:13-57
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:53:13-57:29
+ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:55:13-59:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:54:17-69
+ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:56:17-69
 	android:name
-		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:54:25-66
+		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:56:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:56:17-77
+ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:58:17-77
 	android:name
-		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:56:27-74
+		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:58:27-74
 activity#tr.net.rota.aeyacin.rotamobil.ui.activities.Login
-ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:59:9-61:61
+ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:61:9-63:61
 	android:label
-		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:61:13-58
+		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:63:13-58
 	android:name
-		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:60:13-48
+		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:62:13-48
 activity#tr.net.rota.aeyacin.rotamobil.ui.activities.Main
-ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:62:9-66:59
+ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:64:9-68:59
 	android:label
-		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:64:13-56
-	android:launchMode
-		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:65:13-44
-	android:theme
 		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:66:13-56
+	android:launchMode
+		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:67:13-44
+	android:theme
+		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:68:13-56
 	android:name
-		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:63:13-47
+		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:65:13-47
 activity#tr.net.rota.aeyacin.rotamobil.ui.activities.VehicleList
-ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:67:9-71:76
+ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:69:9-73:76
 	android:label
-		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:69:13-49
+		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:71:13-49
 	android:windowSoftInputMode
-		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:71:13-73
+		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:73:13-73
 	android:theme
-		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:70:13-56
+		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:72:13-56
 	android:name
-		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:68:13-54
+		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:70:13-54
 activity#tr.net.rota.aeyacin.rotamobil.ui.activities.MapsActivitySingle
-ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:72:9-70
+ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:74:9-70
 	android:name
-		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:72:19-67
+		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:74:19-67
 activity#tr.net.rota.aeyacin.rotamobil.ui.activities.DeviceList
-ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:73:9-76:59
+ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:75:9-78:59
 	android:label
-		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:75:13-49
+		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:77:13-49
 	android:theme
-		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:76:13-56
+		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:78:13-56
 	android:name
-		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:74:13-53
+		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:76:13-53
 activity#tr.net.rota.aeyacin.rotamobil.ui.activities.VehicleHistory
-ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:77:9-80:59
+ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:79:9-82:59
 	android:label
-		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:79:13-67
+		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:81:13-67
 	android:theme
-		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:80:13-56
+		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:82:13-56
 	android:name
-		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:78:13-57
+		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:80:13-57
 meta-data#com.google.android.geo.API_KEY
-ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:106:9-108:71
+ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:108:9-110:71
 	android:value
-		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:108:13-68
+		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:110:13-68
 	android:name
-		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:107:13-58
+		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:109:13-58
 service#com.tuenti.smsradar.SmsRadarService
-ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:115:9-118:48
+ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:117:9-120:48
 	android:label
-		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:118:13-45
+		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:120:13-45
 	android:exported
-		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:117:13-37
+		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:119:13-37
 	android:name
-		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:116:13-63
+		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:118:13-63
 activity#tr.net.rota.aeyacin.rotamobil.ui.activities.Accounts
-ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:120:9-122:48
+ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:122:9-124:48
 	android:label
-		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:122:13-45
+		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:124:13-45
 	android:name
-		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:121:13-51
+		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:123:13-51
 activity#tr.net.rota.aeyacin.rotamobil.ui.activities.MonthlyRoadReportActivity
-ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:123:9-126:58
+ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:125:9-128:58
 	android:label
-		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:125:13-71
+		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:127:13-71
 	android:theme
-		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:126:13-56
+		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:128:13-56
 	android:name
-		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:124:13-68
+		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:126:13-68
 activity#tr.net.rota.aeyacin.rotamobil.ui.activities.ReportActivity
-ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:128:9-131:58
+ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:130:9-133:58
 	android:label
-		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:130:13-58
+		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:132:13-58
 	android:theme
-		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:131:13-56
+		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:133:13-56
 	android:name
-		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:129:13-57
+		ADDED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml:131:13-57
 uses-sdk
 INJECTED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml
@@ -703,12 +679,12 @@ MERGED from [com.google.android.gms:play-services-cast:12.0.1] C:\Users\RotaMobi
 MERGED from [com.google.android.gms:play-services-cast:12.0.1] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\play-services-cast-12.0.1.aar\1b91f2b49462da7891525686a0720cf0\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:mediarouter-v7:26.1.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-26.1.0.aar\51c3a484259ba4028b46badaadc058d0\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:mediarouter-v7:26.1.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-26.1.0.aar\51c3a484259ba4028b46badaadc058d0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:design:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\6654777204835d4f9ba3896c35350fbe\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:design:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\6654777204835d4f9ba3896c35350fbe\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\9220b21b240ab28a20387c05e29b7649\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\9220b21b240ab28a20387c05e29b7649\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\7afac4f591900f4cdd313b5da1597841\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\7afac4f591900f4cdd313b5da1597841\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\design-27.0.0.aar\c3b6d5359c42fa8acc067ad64e828555\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\design-27.0.0.aar\c3b6d5359c42fa8acc067ad64e828555\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.0.aar\d67623e09da56b30dec2524c0e8855b0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.0.aar\d67623e09da56b30dec2524c0e8855b0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.0.aar\07e803c886e25bdafecf9c9482fbce69\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.0.aar\07e803c886e25bdafecf9c9482fbce69\AndroidManifest.xml:20:5-44
 MERGED from [com.github.rampo.updatechecker:library:2.1.8] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\library-2.1.8.aar\1fd586843b69272629a5dd9ce3c41893\AndroidManifest.xml:7:5-9:41
 MERGED from [com.github.rampo.updatechecker:library:2.1.8] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\library-2.1.8.aar\1fd586843b69272629a5dd9ce3c41893\AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.android.gms:play-services-awareness:12.0.1] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\play-services-awareness-12.0.1.aar\4836f711c19a1494142445107f87fd5e\AndroidManifest.xml:20:5-44
@@ -811,10 +787,10 @@ MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\RotaMob
 MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\play-services-tasks-12.0.1.aar\b9d422eaa1ed8107d2b8e2be96404c49\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\8d7753c59a9803473f2339300940fd8a\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\8d7753c59a9803473f2339300940fd8a\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\f394c41c00e320f0860bab7965148c3b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\f394c41c00e320f0860bab7965148c3b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\32dd8a221f6b60b3f4eec4f6bb8fc75f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\32dd8a221f6b60b3f4eec4f6bb8fc75f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.0.aar\e796be26ac7338278d0b5e14aa69f237\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.0.aar\e796be26ac7338278d0b5e14aa69f237\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.0.aar\3e06b7b5360472127f630224210989be\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.0.aar\3e06b7b5360472127f630224210989be\AndroidManifest.xml:20:5-44
 MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\56c430a24c7d2dcb8f4fefdcf78bcf30\AndroidManifest.xml:5:5-43
 MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\56c430a24c7d2dcb8f4fefdcf78bcf30\AndroidManifest.xml:5:5-43
 MERGED from [com.pddstudio:encrypted-preferences:1.3.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\encrypted-preferences-1.3.0.aar\32629cac7c38f97a717a59dc34b89d18\AndroidManifest.xml:8:5-10:41
@@ -829,10 +805,10 @@ MERGED from [com.github.lzyzsd:circleprogress:1.2.1] C:\Users\RotaMobile\.gradle
 MERGED from [com.github.lzyzsd:circleprogress:1.2.1] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\circleprogress-1.2.1.aar\7734152f3d7ab13d90f6eddbba73ea8a\AndroidManifest.xml:8:5-10:41
 MERGED from [rongi.rotate-layout:rotate-layout:3.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\rotate-layout-3.0.0.aar\3020863500f751a79395a0b2f896f4b8\AndroidManifest.xml:8:5-10:41
 MERGED from [rongi.rotate-layout:rotate-layout:3.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\rotate-layout-3.0.0.aar\3020863500f751a79395a0b2f896f4b8\AndroidManifest.xml:8:5-10:41
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\370be6dc97f40486e1e1fdf3628c7c4b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\370be6dc97f40486e1e1fdf3628c7c4b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\2ae66ef82d7fd5605fc2865dfc55fe8f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\2ae66ef82d7fd5605fc2865dfc55fe8f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.0.aar\243366a485cbaa3f44261cba40c04768\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.0.aar\243366a485cbaa3f44261cba40c04768\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.0.aar\423d3720446fd48677ec3769df8ae514\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.0.aar\423d3720446fd48677ec3769df8ae514\AndroidManifest.xml:20:5-44
 MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.6] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\android-gif-drawable-1.2.6.aar\adbd85ff5c122a75f3ad4c36aa6e4a0b\AndroidManifest.xml:7:5-9:41
 MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.6] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\android-gif-drawable-1.2.6.aar\adbd85ff5c122a75f3ad4c36aa6e4a0b\AndroidManifest.xml:7:5-9:41
 MERGED from [com.github.leonardoxh:fake-search-view:0.3.1] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\fake-search-view-0.3.1.aar\d1267e44353d7916f185c13e189e484c\AndroidManifest.xml:5:5-7:41
@@ -841,58 +817,20 @@ MERGED from [info.hoang8f:android-segmented:1.0.6] C:\Users\RotaMobile\.gradle\c
 MERGED from [info.hoang8f:android-segmented:1.0.6] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\android-segmented-1.0.6.aar\541bcc09e5df13f3dc9566aec89f587d\AndroidManifest.xml:7:5-9:41
 MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.4] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.4.aar\6cb3f714720050ed80941395f69cea33\AndroidManifest.xml:7:5-43
 MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.4] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.4.aar\6cb3f714720050ed80941395f69cea33\AndroidManifest.xml:7:5-43
-MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\d0cdfb7d54d5fd25d8dc1737a665839c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\d0cdfb7d54d5fd25d8dc1737a665839c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\76dea79a264d929dca23e4e484e2b574\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\76dea79a264d929dca23e4e484e2b574\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\ebedac2e24d714b7afb509fad33d4c9c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\ebedac2e24d714b7afb509fad33d4c9c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\f1ddc1b700cbdfeee6ddff8fcce0092c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\f1ddc1b700cbdfeee6ddff8fcce0092c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\cc18d6753401d6e65c842f536c1c0689\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\cc18d6753401d6e65c842f536c1c0689\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\79a44dc849cd8b8765f98ff79815a75d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\79a44dc849cd8b8765f98ff79815a75d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\e36b56407138f596d7143c271976a21c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\e36b56407138f596d7143c271976a21c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\9d04067f6b312b4bf7a43789ed4be988\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\9d04067f6b312b4bf7a43789ed4be988\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\62d6fb9756c9df0300507d7376d4c1f9\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\62d6fb9756c9df0300507d7376d4c1f9\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\3454b3e09ad18745de21910a1762c68d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\3454b3e09ad18745de21910a1762c68d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\6011360cc7191fc38767be8fc8fb033d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\6011360cc7191fc38767be8fc8fb033d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.0.aar\51250a242a63d36ef19d5f1419d9e3c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.0.aar\51250a242a63d36ef19d5f1419d9e3c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.0.aar\6aa18742f7b449a4d798885d27a037f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.0.aar\6aa18742f7b449a4d798885d27a037f6\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:palette-v7:26.1.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\palette-v7-26.1.0.aar\28759d80e7f186d39f4dbd5aa4be0579\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:palette-v7:26.1.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\palette-v7-26.1.0.aar\28759d80e7f186d39f4dbd5aa4be0579\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\e178bb7daae51504c729f83f3691e250\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\e178bb7daae51504c729f83f3691e250\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\f80179f6f14a30ea37140a1fa00b4d53\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\f80179f6f14a30ea37140a1fa00b4d53\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\e508cb6f7a6fddf8a96cd2e1e8791193\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\e508cb6f7a6fddf8a96cd2e1e8791193\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\189a53ff68e16539ccae91c5220bbb63\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\189a53ff68e16539ccae91c5220bbb63\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\e9b2800272edf6a662316a8be468aaa0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\e9b2800272edf6a662316a8be468aaa0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\74a96665fd66f1bd109ef3979831b96c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\74a96665fd66f1bd109ef3979831b96c\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c4ea6c3ee7ca0447241ac823df3d6418\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c4ea6c3ee7ca0447241ac823df3d6418\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\bd00a96d081f879c2e42be3989dd061b\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\bd00a96d081f879c2e42be3989dd061b\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\fc4dea07adb7cf4d302ab51100673162\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\fc4dea07adb7cf4d302ab51100673162\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e430c865e590434dc8b4602f07837362\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e430c865e590434dc8b4602f07837362\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\0275fec4d9320dfcc1f819248021697b\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\0275fec4d9320dfcc1f819248021697b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\fd711aef7c05b5b7d14edfbad492493b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\fd711aef7c05b5b7d14edfbad492493b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\3bcec5b17dfe53a4969fedc4bf620972\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\3bcec5b17dfe53a4969fedc4bf620972\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\64719decf38a0f3e3373d6e727157fdc\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\64719decf38a0f3e3373d6e727157fdc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.0.aar\fbdf4d195646696b0d36960a3d4a4bb6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.0.aar\fbdf4d195646696b0d36960a3d4a4bb6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\transition-27.0.0.aar\e18a6411727a64657b07ec70b723f104\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\transition-27.0.0.aar\e18a6411727a64657b07ec70b723f104\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.0.aar\235ad98c344424c8bf9480538ad1195e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.0.aar\235ad98c344424c8bf9480538ad1195e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.0.aar\819940b3c99e73de45f9236debd310f3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.0.aar\819940b3c99e73de45f9236debd310f3\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-12.0.1.aar\a6145b9be79865daf25573a34038989d\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-12.0.1.aar\a6145b9be79865daf25573a34038989d\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-license-12.0.1.aar\bff3f60b3642d58b0db4e1640aeab4e1\AndroidManifest.xml:20:5-44
@@ -1001,6 +939,8 @@ MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] C:\User
 MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\play-services-wallet-license-12.0.1.aar\c86dd3b681afa0da1a0b5232897fa293\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\play-services-wearable-license-12.0.1.aar\04cff1e323577b2b5e3963121c16667e\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\play-services-wearable-license-12.0.1.aar\04cff1e323577b2b5e3963121c16667e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\8b4a5cbc1d6a558c2ab764ba7007c172\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\8b4a5cbc1d6a558c2ab764ba7007c172\AndroidManifest.xml:20:5-22:41
 INJECTED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml
 INJECTED from C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\src\main\AndroidManifest.xml
 	tools:overrideLibrary
@@ -1313,3 +1253,9 @@ ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.4] C:\Users\RotaMobile\.
 		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.4] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.4.aar\6cb3f714720050ed80941395f69cea33\AndroidManifest.xml:16:13-36
 	android:name
 		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.4] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.4.aar\6cb3f714720050ed80941395f69cea33\AndroidManifest.xml:13:13-75
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\8b4a5cbc1d6a558c2ab764ba7007c172\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\8b4a5cbc1d6a558c2ab764ba7007c172\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\RotaMobile\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\8b4a5cbc1d6a558c2ab764ba7007c172\AndroidManifest.xml:26:13-58

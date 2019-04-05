@@ -47,6 +47,8 @@
         android:theme="@style/AppTheme"
         tools:replace="android:icon">
 
+
+
         <activity
             android:name=".ui.activities.SplashActivity"
             android:theme="@style/Theme.Transparent">
@@ -129,6 +131,8 @@
             android:name=".ui.activities.ReportActivity"
             android:label="@string/title_activity_report"
             android:theme="@style/AppTheme.NoActionBar"/>
+
+
 
     </application>
 

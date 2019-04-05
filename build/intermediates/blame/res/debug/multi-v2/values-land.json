@@ -13,11 +13,11 @@
                         "endOffsets": "263,343,413,482,577,668"
                     },
                     "to": {
-                        "startLines": "5,6,7,8,9,10",
+                        "startLines": "6,7,8,9,10,11",
                         "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "264,349,433,507,580,679",
+                        "startOffsets": "328,413,497,571,644,743",
                         "endColumns": "84,83,73,72,98,94",
-                        "endOffsets": "344,428,502,575,674,769"
+                        "endOffsets": "408,492,566,639,738,833"
                     }
                 },
                 {
@@ -30,21 +30,21 @@
                         "endOffsets": "93,138"
                     },
                     "to": {
-                        "startLines": "11,15",
+                        "startLines": "12,16",
                         "startColumns": "4,4",
-                        "startOffsets": "774,1045",
+                        "startOffsets": "838,1109",
                         "endColumns": "42,44",
-                        "endOffsets": "812,1085"
+                        "endOffsets": "876,1149"
                     }
                 },
                 {
-                    "source": "C:\\Users\\RotaMobile\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\9220b21b240ab28a20387c05e29b7649\\res\\values-land\\values-land.xml",
+                    "source": "C:\\Users\\RotaMobile\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.0.aar\\d67623e09da56b30dec2524c0e8855b0\\res\\values-land\\values-land.xml",
                     "from": {
-                        "startLines": "2,3,4",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "55,125,196",
-                        "endColumns": "69,70,67",
-                        "endOffsets": "120,191,259"
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
                     }
                 },
                 {
@@ -57,30 +57,30 @@
                         "endOffsets": "125,203,278"
                     },
                     "to": {
-                        "startLines": "12,13,14",
+                        "startLines": "13,14,15",
                         "startColumns": "4,4,4",
-                        "startOffsets": "817,892,970",
+                        "startOffsets": "881,956,1034",
                         "endColumns": "74,77,74",
-                        "endOffsets": "887,965,1040"
+                        "endOffsets": "951,1029,1104"
                     }
                 },
                 {
-                    "source": "C:\\Users\\RotaMobile\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\6654777204835d4f9ba3896c35350fbe\\res\\values-land\\values-land.xml",
+                    "source": "C:\\Users\\RotaMobile\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.0.0.aar\\c3b6d5359c42fa8acc067ad64e828555\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
                         "startOffsets": "55",
                         "endLines": "5",
-                        "endColumns": "10",
-                        "endOffsets": "222"
+                        "endColumns": "12",
+                        "endOffsets": "232"
                     },
                     "to": {
-                        "startLines": "16",
+                        "startLines": "17",
                         "startColumns": "4",
-                        "startOffsets": "1090",
-                        "endLines": "19",
-                        "endColumns": "10",
-                        "endOffsets": "1257"
+                        "startOffsets": "1154",
+                        "endLines": "20",
+                        "endColumns": "12",
+                        "endOffsets": "1331"
                     }
                 }
             ]
