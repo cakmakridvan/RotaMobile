@@ -527,7 +527,8 @@ public class Main extends AppCompatActivity implements OnMapReadyCallback, Googl
 
             // Create the hub proxy
             //  HubProxy proxy = conn.createHubProxy( "ChatHub" );
-            proxy = conn.createHubProxy("RealData");
+            //proxy = conn.createHubProxy("RealData"); old key:17.09.2019
+            proxy = conn.createHubProxy("RealDataNew");
 
             proxy.subscribe(new Object() {
                 @SuppressWarnings("unused")
@@ -801,7 +802,7 @@ try {
                     return;
             }
 
-            if (SignalR.M.equalsIgnoreCase("updateLocation1")) {
+            if (SignalR.M.equalsIgnoreCase("updateLocation")) {
 
                 //         if (Globals.user.CompanyID == SignalR.A.get(0).R5)
                 {

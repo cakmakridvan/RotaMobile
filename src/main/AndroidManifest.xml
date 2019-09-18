@@ -45,9 +45,10 @@
         android:supportsRtl="true"
         android:hardwareAccelerated="true"
         android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true"
         tools:replace="android:icon">
 
-
+        <uses-library android:name="org.apache.http.legacy" android:required="false" />
 
         <activity
             android:name=".ui.activities.SplashActivity"

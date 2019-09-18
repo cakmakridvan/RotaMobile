@@ -1,3 +1,0 @@
-# Referenced at C:\Users\RotaMobile\Documents\RotaMobil\AndroidStudioRotaMobile\RotaMobilNewSystem\build\intermediates\manifests\full\debug\AndroidManifest.xml:54
--keep class android.support.multidex.MultiDexApplication { <init>(...); }
-

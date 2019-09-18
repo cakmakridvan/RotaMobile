@@ -4,7 +4,26 @@
             "outputFile": "C:\\Users\\RotaMobile\\Documents\\RotaMobil\\AndroidStudioRotaMobile\\RotaMobilNewSystem\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-watch-v20\\values-watch-v20.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\RotaMobile\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-auth-12.0.1.aar\\5f53be3cd6096db0bb8b1ebb16c8d9cb\\res\\values-watch-v20\\values.xml",
+                    "source": "C:\\Users\\RotaMobile\\.gradle\\caches\\transforms-2\\files-2.1\\b74ebc6e334e9a7db0ef75fdc5b39f42\\res\\values-watch-v20\\values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    },
+                    "to": {
+                        "startLines": "10,13,16",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "715,874,1045",
+                        "endLines": "12,15,18",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "869,1040,1213"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\RotaMobile\\.gradle\\caches\\transforms-2\\files-2.1\\820db16c587585e98af9be32a70c50ef\\res\\values-watch-v20\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11",
                         "startColumns": "0,0,0,0,0,0,0,0",
